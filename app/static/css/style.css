@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Poiret+One);
+
+h1 {
+  border: 2px solid black;
+  color: black;
+  font-family:'Poiret one', cursive;
+  background-color: yellow;
+  font-size: 65px;
+  letter-spacing: 10px;
+  padding: 20px;
+  margin: 0px;
+}
+a {
+  background-color:rgb(66, 250, 235);
+}
+
+nav{
+  margin-top:5px;
+}
+
+a{
+  font-family: 'Poiret one' cursive;
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  padding: 4px;
+}
+
+a:hover{
+  text-decoration: underline;
+  background-color: blue;
+}
+
+.super {
+  color:red;
+}
+
+#awesome {
+  color:blue;
+}
